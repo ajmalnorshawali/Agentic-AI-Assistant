@@ -24,7 +24,7 @@ To get started, you'll need the following:
   - **Installation**: See the [Local LLM using Ollama guide](https://github.com/ajmalnorshawali/Local-LLM). 
 
 3. **Gemini CLI**: 
-- **Installation**: See the [Gemini CLI guide](link here). 
+- **Installation**: See the [Gemini CLI guide](https://github.com/ajmalnorshawali/Gemini-CLI). 
 
 
 # Environment Readiness
